@@ -1,0 +1,3 @@
+streamlit
+easyocr
+python-docx
